@@ -1,3 +1,4 @@
+.vscode
 lab2/
-lab4/build/
+lab*/build/
 lab4/.vscode/settings.json
